@@ -20,6 +20,7 @@
 		BC32B4F52844035400357134 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BC32B4F82844035400357134 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		BC32B4FF2844042F00357134 /* Unitify.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Unitify.entitlements; sourceTree = "<group>"; };
+		BC32B5002844125F00357134 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 				BC32B4F32844035100357134 /* ContentView.swift */,
 				BC32B4F52844035400357134 /* Assets.xcassets */,
 				BC32B4F72844035400357134 /* Preview Content */,
+				BC32B5002844125F00357134 /* README.md */,
 			);
 			path = Unitify;
 			sourceTree = "<group>";
