@@ -67,6 +67,9 @@ Text($0)
 						if inputUnit == outputUnit {
 							Text("Input and output units cannot be the same!").background(.red)
 						}
+						else if valueToConvert <= 0 {
+Text("Wrong input!")
+						}
 						else {
 						Text("\(conversion, format: .number) \(outputUnit)")
 						}

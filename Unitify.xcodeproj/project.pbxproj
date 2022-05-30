@@ -113,6 +113,7 @@
 			knownRegions = (
 				en,
 				Base,
+				pl,
 			);
 			mainGroup = BC32B4E52844035100357134;
 			productRefGroup = BC32B4EF2844035100357134 /* Products */;
